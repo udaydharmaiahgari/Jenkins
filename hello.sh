@@ -1,4 +1,4 @@
-sudo su -
+sudo su
 mkdir /prod/mw/tomcat/
 cd /prod/mw/tomcat/
 pwd
